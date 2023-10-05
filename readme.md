@@ -13,7 +13,7 @@ Easily set up a GPU mining server for XENBLOCKS mining. A single line of code in
 3. **VAST.AI Mining - vast.ai (verified)**:
    - Now you're all set!
    - Use a single line command below to get a new GPU server up and running (from 0 to full-speed mining with one press of a button).
-   - Note: of course replace (JApeace86/xgpucopy/main/vast.sh) with path to your repo
+   - Note: of course replace (Apeace86/xgpucopy/main/vast.sh) with path to your repo
      
    vast.ai (single GPU):
       ```

@@ -17,23 +17,23 @@ Easily set up a GPU mining server for XENBLOCKS mining. A single line of code in
      
    vast.ai (single GPU):
       ```
-   sudo apt update && sudo apt -y install wget && sudo wget https://raw.githubusercontent.com/JozefJarosciak/xgpu/main/vast.sh && sudo chmod +x vast.sh && sudo ./vast.sh
+   sudo apt update && sudo apt -y install wget && sudo wget https://raw.githubusercontent.com/Apeace86/xgpu/main/vast.sh && sudo chmod +x vast.sh && sudo ./vast.sh
       ```
 
    or vast4.ai (for 4 X GPU):
       ```
-   sudo apt update && sudo apt -y install wget && sudo wget https://raw.githubusercontent.com/JozefJarosciak/xgpu/main/vast4.sh && sudo chmod +x vast4.sh && sudo ./vast4.sh
+   sudo apt update && sudo apt -y install wget && sudo wget https://raw.githubusercontent.com/Apeace86/xgpu/main/vast4.sh && sudo chmod +x vast4.sh && sudo ./vast4.sh
       ```      
 
    or vast8.ai (for 8 X GPU):
       ```
-   sudo apt update && sudo apt -y install wget && sudo wget https://raw.githubusercontent.com/JozefJarosciak/xgpu/main/vast8.sh && sudo chmod +x vast8.sh && sudo ./vast8.sh
+   sudo apt update && sudo apt -y install wget && sudo wget https://raw.githubusercontent.com/Apeace86/xgpu/main/vast8.sh && sudo chmod +x vast8.sh && sudo ./vast8.sh
       ```
 
 
 5. **RUNPOD Mining - runpod.io (unverified)**:
    ```
-   apt update && apt -y install wget && wget https://raw.githubusercontent.com/JozefJarosciak/xgpu/main/runpod.sh && chmod +x runpod.sh && ./runpod.sh
+   apt update && apt -y install wget && wget https://raw.githubusercontent.com/Apeace86/xgpu/main/runpod.sh && chmod +x runpod.sh && ./runpod.sh
    ```
 
 

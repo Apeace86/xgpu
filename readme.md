@@ -13,27 +13,27 @@ Easily set up a GPU mining server for XENBLOCKS mining. A single line of code in
 3. **VAST.AI Mining - vast.ai (verified)**:
    - Now you're all set!
    - Use a single line command below to get a new GPU server up and running (from 0 to full-speed mining with one press of a button).
-   - Note: of course replace (JozefJarosciak/xgpu/main/gpu.sh) with path to your repo
+   - Note: of course replace (JApeace86/xgpucopy/main/vast.sh) with path to your repo
      
    vast.ai (single GPU):
       ```
-   sudo apt update && sudo apt -y install wget && sudo wget https://raw.githubusercontent.com/Apeace86/xgpu/main/vast.sh && sudo chmod +x vast.sh && sudo ./vast.sh
+   sudo apt update && sudo apt -y install wget && sudo wget https://raw.githubusercontent.com/Apeace86/xgpucopy/main/vast.sh && sudo chmod +x vast.sh && sudo ./vast.sh
       ```
 
    or vast4.ai (for 4 X GPU):
       ```
-   sudo apt update && sudo apt -y install wget && sudo wget https://raw.githubusercontent.com/Apeace86/xgpu/main/vast4.sh && sudo chmod +x vast4.sh && sudo ./vast4.sh
+   sudo apt update && sudo apt -y install wget && sudo wget https://raw.githubusercontent.com/Apeace86/xgpucopy/main/vast4.sh && sudo chmod +x vast4.sh && sudo ./vast4.sh
       ```      
 
    or vast8.ai (for 8 X GPU):
       ```
-   sudo apt update && sudo apt -y install wget && sudo wget https://raw.githubusercontent.com/Apeace86/xgpu/main/vast8.sh && sudo chmod +x vast8.sh && sudo ./vast8.sh
+   sudo apt update && sudo apt -y install wget && sudo wget https://raw.githubusercontent.com/Apeace86/xgpucopy/main/vast8.sh && sudo chmod +x vast8.sh && sudo ./vast8.sh
       ```
 
 
 5. **RUNPOD Mining - runpod.io (unverified)**:
    ```
-   apt update && apt -y install wget && wget https://raw.githubusercontent.com/Apeace86/xgpu/main/runpod.sh && chmod +x runpod.sh && ./runpod.sh
+   apt update && apt -y install wget && wget https://raw.githubusercontent.com/Apeace86/xgpucopy/main/runpod.sh && chmod +x runpod.sh && ./runpod.sh
    ```
 
 

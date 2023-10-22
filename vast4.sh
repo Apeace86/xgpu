@@ -28,7 +28,7 @@ sleep 5
 echo "---------------------------"
 
 # Clone the repository and build the project
-git clone https://github.com/Apeace86/copynappingbear.git
+git clone https://github.com/shanhaicoder/XENGPUMiner.git
 sleep 5
 echo "---------------------------"
 

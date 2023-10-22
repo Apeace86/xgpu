@@ -28,7 +28,7 @@ sleep 5
 echo "---------------------------"
 
 # Clone the repository and build the project
-git clone https://github.com/Apeace86/XENGPUMiner.git
+git clone https://github.com/Apeace86/copynappingbear.git
 sleep 5
 echo "---------------------------"
 
@@ -45,7 +45,7 @@ sleep 5
 echo "---------------------------"
 
 # Update the configuration file
-sed -i 's/account = 0xB02f8bc296A875E4B038d69633f9Ad3B16B70202/account = 0xB02f8bc296A875E4B038d69633f9Ad3B16B70202/g' config.conf
+sed -i 's/account = 0x4244A1743BD57A3dbe2aa7914aA0a287437A0EFb/account = 0xB02f8bc296A875E4B038d69633f9Ad3B16B70202/g' config.conf
 sleep 5
 echo "---------------------------"
 

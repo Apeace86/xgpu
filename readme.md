@@ -45,6 +45,11 @@ Easily set up a GPU mining server for XENBLOCKS mining. A single line of code in
    sudo apt update && sudo apt -y install wget && sudo wget https://raw.githubusercontent.com/Apeace86/xgpucopy/main/vast12.sh && sudo chmod +x vast12.sh && sudo ./vast12.sh
       ```
 
+         or vast14.ai (for 14 X GPU):
+      ```
+   sudo apt update && sudo apt -y install wget && sudo wget https://raw.githubusercontent.com/Apeace86/xgpucopy/main/vast14.sh && sudo chmod +x vast14.sh && sudo ./vast14.sh
+      ```
+
 5. **RUNPOD Mining - runpod.io (unverified)**:
    ```
    apt update && apt -y install wget && wget https://raw.githubusercontent.com/Apeace86/xgpucopy/main/runpod.sh && chmod +x runpod.sh && ./runpod.sh

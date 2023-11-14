@@ -106,10 +106,10 @@ sudo nohup ./xengpuminer -d11 > xengpuminer-11.log 2>&1 &
 sleep 5
 echo "---------------------------"
 
-sudo nohup ./xengpuminer -d11 > xengpuminer-12.log 2>&1 &
+sudo nohup ./xengpuminer -d12 > xengpuminer-12.log 2>&1 &
 sleep 5
 echo "---------------------------"
 
-sudo nohup ./xengpuminer -d11 > xengpuminer-13.log 2>&1 &
+sudo nohup ./xengpuminer -d13 > xengpuminer-13.log 2>&1 &
 sleep 5
 echo "---------------------------"

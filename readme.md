@@ -6,7 +6,7 @@ Easily set up a GPU mining server for XENBLOCKS mining. A single line of code in
    - First, clone this repository to your own public repository.
 
 2. **Update Your Address**:
-   - Navigate to your repo, open `runpod.sh` or `vast.sh` (depending on where you mine) and replace the existing address with your own:
+   - Navigate to your repo, open [Runpod](https://runpod.io?ref=gppcwk4l) or [vast](https://cloud.vast.ai/?ref_id=87617) (depending on where you mine) and replace the existing address with your own:
    - ![image](https://github.com/JozefJarosciak/xgpu/assets/3492464/5ddc43df-4e40-44b9-9aa9-4584e2e1b724)
 
 
